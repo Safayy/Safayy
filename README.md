@@ -9,11 +9,7 @@
 </a>
 <a href="https://leetcode.com/Safayy/" target="blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="safayousif" />
-</a>
-<a href="https://twitter.com/safayousifa" target="blank">
-  <img src="https://img.shields.io/twitter/follow/safayousifa?logo=twitter&style=for-the-badge" alt="safayousifa" />
-</a>
-      
+</a>      
 <a href="https://medium.com/@safayousif" target="blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="safayousif" />
 </a>
