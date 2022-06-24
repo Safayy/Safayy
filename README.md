@@ -1,16 +1,14 @@
-### Hi there 👋
+<h3 align="center">"The only time to regret the past is tomorrow.” - Toni Morrison</h3>
 
-<!--
-**Safayy/Safayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    A student passionate about full stack website development and mobile applications. Enjoys challenges, learning and coffee. ☕
+<div><br/>
+  
+<a href="https://www.linkedin.com/in/safa-yousif/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="safayousifa" />
+</a>  
+<a href="https://twitter.com/safayousifa" target="blank">
+  <img src="https://img.shields.io/twitter/follow/safayousifa?logo=twitter&style=for-the-badge" alt="safayousifa" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
