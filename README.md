@@ -10,6 +10,14 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-46a2f1?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7E018?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Java" src="https://img.shields.io/badge/java-ED8B00?style=flat-badgee&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-python-346FA0?style=flat-square&logo=python&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+
+  
 </p>
 <div align="center">
     <a href="https://www.linkedin.com/in/safa-yousif/" target="blank">
@@ -22,6 +30,6 @@
       <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="safayousif" />
     </a>   
     <a href="https://medium.com/@safayousif" target="blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="safayousif" />
+      <img src="https://img.shields.io/badge/Medium-37322D?style=for-the-badge&logo=medium&logoColor=white%22%20alt=%22safayousif" />
     </a>
 </div>
