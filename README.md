@@ -13,7 +13,7 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7E018?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Java" src="https://img.shields.io/badge/java-ED8B00?style=flat-badgee&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-python-346FA0?style=flat-square&logo=python&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-37322D?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 
