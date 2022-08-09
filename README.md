@@ -1,5 +1,5 @@
 <div>
-    <p align="center">I'm passionate about <b>Full Stack</b> and <b>Mobile Development</b>. Enjoys discussions and contributing to opensource. Learning React and Kotlin now.</p>
+    <p align="center">I'm passionate about <b>Full Stack</b> and <b>Mobile Development</b>. Enjoys discussions and contributing. Learning React and Kotlin now.</p>
 <div>
 <div align="center">
     <a href="https://www.linkedin.com/in/safa-yousif/" target="blank">
