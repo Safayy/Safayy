@@ -1,5 +1,5 @@
 <div>
-    <p align="center">I'm passionate about <b>Full Stack</b> and <b>Mobile Development</b>. Enjoys discussions and contributing. Learning React and Kotlin now.</p>
+    <p align="center">Enjoys discussions and open source contributing. Learning <b>React</b> and <b>Kotlin</b> now. Currently working on <a href="https://github.com/Safayy/greatest-list">Greatest List</a>, a webscraping site!</p>
 <div>
 <div align="center">
     <a href="https://www.linkedin.com/in/safa-yousif/" target="blank">
