@@ -1,7 +1,5 @@
-<div>
-    <p align="center">Enjoys discussions and open source contributing. Learning <b>Kotlin</b> now. Currently working on <a href="https://github.com/Safayy/greatest-list">Greatest List</a>, a webscraping site.</p>
-<div>
-<p align="center">
+<p>Enjoys discussions and open source contributing. Learning <b>Kotlin</b> now. Currently working on <a href="https://github.com/Safayy/greatest-list">Greatest List</a>, a webscraping site.</p>
+<p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
