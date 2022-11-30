@@ -1,4 +1,4 @@
-<p>Enjoys discussions and open source contributing. Learning <b>Kotlin</b> now. Currently working on <a href="https://github.com/Safayy/greatest-list">Greatest List</a>, a webscraping site.</p>
+<p>Enjoys discussions and open source contributing. Learning <b>Kotlin</b> now. Currently working on <a href="https://github.com/Safayy/greatest-list">Greenwood</a>, an environment preservation system.</p>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/safa-yousif/" target="blank">
