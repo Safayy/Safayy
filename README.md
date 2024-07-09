@@ -2,6 +2,6 @@ Open-source enthusiast who enjoys exploring new technologies and contributing to
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,cpp,java,python,gcp,flutter,androidstudio,git)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,react,docker,postgres,qt,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,git,postgres)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,python,cpp,bash,gcp,docker)](https://skillicons.dev) 
 </div>
